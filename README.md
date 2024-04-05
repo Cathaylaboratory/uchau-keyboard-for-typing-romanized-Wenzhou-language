@@ -1,3 +1,30 @@
-# uchau-keyboard-for-typing-romanized-Wenzhou-language
-This is the keyboard for typing romanized Wenzhou language. The name of the keyboard is uchau, the name of our homeland.
-oo = ö, uu = û, ii = ï, ae= æ, uw= ü, mm = m̌, nn = ň, ll = l̆, ňg = ngg, as = á, af = à.
+uchau keyboard
+==============
+
+Version 1.0
+
+Description
+-----------
+uchau generated from template
+
+Links
+-----
+
+Copyright
+---------
+See [LICENSE.md](LICENSE.md)
+
+Supported Platforms
+-------------------
+ * Windows
+ * macOS
+ * Linux
+ * Web
+ * iPhone
+ * iPad
+ * Android phone
+ * Android tablet
+ * Mobile devices
+ * Desktop devices
+ * Tablet devices
+
